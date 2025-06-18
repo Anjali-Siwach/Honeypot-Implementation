@@ -18,6 +18,7 @@ Python for backend scripting and data processing
 Flask for API creation and dashboard integration
 
 JSON for log storage and analysis
+
 📷 Sample Dashboard Visuals
 Attack timeline & trends
 
