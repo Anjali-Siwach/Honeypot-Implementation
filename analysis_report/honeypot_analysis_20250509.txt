@@ -1,0 +1,55 @@
+
+=== Honeypot Analysis Report ===
+
+Top 10 Most Active IPs:
+
+IP: 127.0.0.1
+Total Attempts: 34
+Active Duration: 0:00:22.237424
+Unique Ports Targeted: 3
+Unique Payloads: 18
+
+Port Targeting Analysis:
+
+Port 21:
+Total Attempts: 20
+Unique Attackers: 1
+Unique Payloads: 11
+
+Port 80:
+Total Attempts: 9
+Unique Attackers: 1
+Unique Payloads: 3
+
+Port 22:
+Total Attempts: 5
+Unique Attackers: 1
+Unique Payloads: 4
+
+Hourly Attack Distribution:
+Hour 11: 34 attempts
+
+Attacker Sophistication Analysis:
+IP 127.0.0.1: Sophistication Score 12.00
+
+Top 10 Most Common Payloads:
+Count 4: USER root
+Count 4: USER test
+Count 3: GET / HTTP/1.1
+
+Host: localhost
+Count 3: POST /admin HTTP/1.1
+
+Host: localhost
+
+Content-Len...
+Count 3: GET /wp-admin HTTP/1.1
+
+Host: localhost
+Count 3: USER user
+Count 2: USER admin
+Count 2: admin:password123
+Count 1: admin:root
+Count 1: USER admin
+
+PASS admin123
