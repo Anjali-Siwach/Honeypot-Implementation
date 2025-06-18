@@ -1,0 +1,123 @@
+{"timestamp": "2025-05-09T11:54:25.626320", "remote_ip": "127.0.0.1", "port": 80, "data": "GET / HTTP/1.1\r\nHost: localhost\r\n\r\n"}
+{"timestamp": "2025-05-09T11:54:27.013342", "remote_ip": "127.0.0.1", "port": 80, "data": "POST /admin HTTP/1.1\r\nHost: localhost\r\nContent-Length: 0\r\n\r\n"}
+{"timestamp": "2025-05-09T11:54:27.381144", "remote_ip": "127.0.0.1", "port": 22, "data": "admin:root\n"}
+{"timestamp": "2025-05-09T11:54:28.077231", "remote_ip": "127.0.0.1", "port": 80, "data": "GET /wp-admin HTTP/1.1\r\nHost: localhost\r\n\r\n"}
+{"timestamp": "2025-05-09T11:54:31.638885", "remote_ip": "127.0.0.1", "port": 80, "data": "GET / HTTP/1.1\r\nHost: localhost\r\n\r\n"}
+{"timestamp": "2025-05-09T11:54:32.896358", "remote_ip": "127.0.0.1", "port": 21, "data": "USER admin\r\n"}
+{"timestamp": "2025-05-09T11:54:32.988740", "remote_ip": "127.0.0.1", "port": 80, "data": "POST /admin HTTP/1.1\r\nHost: localhost\r\nContent-Length: 0\r\n\r\n"}
+{"timestamp": "2025-05-09T11:54:33.157911", "remote_ip": "127.0.0.1", "port": 21, "data": "USER admin\r\nPASS admin123\r\n"}
+{"timestamp": "2025-05-09T11:54:33.450311", "remote_ip": "127.0.0.1", "port": 21, "data": "USER admin\r\nPASS 123456\r\n"}
+{"timestamp": "2025-05-09T11:54:33.615841", "remote_ip": "127.0.0.1", "port": 21, "data": "USER admin\r\nPASS root\r\n"}
+{"timestamp": "2025-05-09T11:54:33.652578", "remote_ip": "127.0.0.1", "port": 80, "data": "GET /wp-admin HTTP/1.1\r\nHost: localhost\r\n\r\n"}
+{"timestamp": "2025-05-09T11:54:33.753125", "remote_ip": "127.0.0.1", "port": 21, "data": "USER root\r\n"}
+{"timestamp": "2025-05-09T11:54:33.816970", "remote_ip": "127.0.0.1", "port": 21, "data": "USER admin\r\n"}
+{"timestamp": "2025-05-09T11:54:33.990320", "remote_ip": "127.0.0.1", "port": 21, "data": "USER root\r\n"}
+{"timestamp": "2025-05-09T11:54:34.205834", "remote_ip": "127.0.0.1", "port": 21, "data": "USER root\r\n"}
+{"timestamp": "2025-05-09T11:54:34.399667", "remote_ip": "127.0.0.1", "port": 21, "data": "USER root\r\n"}
+{"timestamp": "2025-05-09T11:54:34.628460", "remote_ip": "127.0.0.1", "port": 21, "data": "USER user\r\n"}
+{"timestamp": "2025-05-09T11:54:34.643476", "remote_ip": "127.0.0.1", "port": 22, "data": "admin:password123\n"}
+{"timestamp": "2025-05-09T11:54:34.753053", "remote_ip": "127.0.0.1", "port": 21, "data": "USER user\r\n"}
+{"timestamp": "2025-05-09T11:54:34.952059", "remote_ip": "127.0.0.1", "port": 21, "data": "USER user\r\n"}
+{"timestamp": "2025-05-09T11:54:35.113315", "remote_ip": "127.0.0.1", "port": 21, "data": "PASS admin123\r\n"}
+{"timestamp": "2025-05-09T11:54:35.260138", "remote_ip": "127.0.0.1", "port": 21, "data": "USER user\r\nPASS root\r\n"}
+{"timestamp": "2025-05-09T11:54:35.375171", "remote_ip": "127.0.0.1", "port": 21, "data": "USER test\r\n"}
+{"timestamp": "2025-05-09T11:54:35.539999", "remote_ip": "127.0.0.1", "port": 21, "data": "USER test\r\n"}
+{"timestamp": "2025-05-09T11:54:35.684678", "remote_ip": "127.0.0.1", "port": 21, "data": "LIST\r\n"}
+{"timestamp": "2025-05-09T11:54:35.769913", "remote_ip": "127.0.0.1", "port": 21, "data": "USER test\r\n"}
+{"timestamp": "2025-05-09T11:54:36.066414", "remote_ip": "127.0.0.1", "port": 21, "data": "USER test\r\n"}
+{"timestamp": "2025-05-09T11:54:37.123805", "remote_ip": "127.0.0.1", "port": 21, "data": "STOR malware.exe\r\n"}
+{"timestamp": "2025-05-09T11:54:38.597444", "remote_ip": "127.0.0.1", "port": 22, "data": "SSH-2.0-OpenSSH_7.9\r\n"}
+{"timestamp": "2025-05-09T11:54:39.484282", "remote_ip": "127.0.0.1", "port": 22, "data": "admin:password123\n"}
+{"timestamp": "2025-05-09T11:54:40.745653", "remote_ip": "127.0.0.1", "port": 22, "data": "root:toor\n"}
+{"timestamp": "2025-05-09T11:54:46.089566", "remote_ip": "127.0.0.1", "port": 80, "data": "GET / HTTP/1.1\r\nHost: localhost\r\n\r\n"}
+{"timestamp": "2025-05-09T11:54:46.851081", "remote_ip": "127.0.0.1", "port": 80, "data": "POST /admin HTTP/1.1\r\nHost: localhost\r\nContent-Length: 0\r\n\r\n"}
+{"timestamp": "2025-05-09T11:54:47.863744", "remote_ip": "127.0.0.1", "port": 80, "data": "GET /wp-admin HTTP/1.1\r\nHost: localhost\r\n\r\n"}
+{"timestamp": "2025-05-09T14:16:02.022708", "remote_ip": "127.0.0.1", "port": 21, "data": "USER admin\r\n"}
+{"timestamp": "2025-05-09T14:16:02.200889", "remote_ip": "127.0.0.1", "port": 21, "data": "USER admin\r\n"}
+{"timestamp": "2025-05-09T14:16:02.413649", "remote_ip": "127.0.0.1", "port": 21, "data": "USER admin\r\n"}
+{"timestamp": "2025-05-09T14:16:02.663093", "remote_ip": "127.0.0.1", "port": 21, "data": "USER admin\r\n"}
+{"timestamp": "2025-05-09T14:16:02.691660", "remote_ip": "127.0.0.1", "port": 21, "data": "USER admin\r\n"}
+{"timestamp": "2025-05-09T14:16:02.910519", "remote_ip": "127.0.0.1", "port": 21, "data": "USER root\r\n"}
+{"timestamp": "2025-05-09T14:16:03.086901", "remote_ip": "127.0.0.1", "port": 21, "data": "USER root\r\n"}
+{"timestamp": "2025-05-09T14:16:03.233265", "remote_ip": "127.0.0.1", "port": 21, "data": "USER root\r\n"}
+{"timestamp": "2025-05-09T14:16:03.357266", "remote_ip": "127.0.0.1", "port": 21, "data": "USER admin\r\n"}
+{"timestamp": "2025-05-09T14:16:03.520211", "remote_ip": "127.0.0.1", "port": 21, "data": "USER root\r\n"}
+{"timestamp": "2025-05-09T14:16:03.548488", "remote_ip": "127.0.0.1", "port": 21, "data": "USER admin\r\n"}
+{"timestamp": "2025-05-09T14:16:03.676116", "remote_ip": "127.0.0.1", "port": 21, "data": "USER user\r\nPASS password123\r\n"}
+{"timestamp": "2025-05-09T14:16:03.695872", "remote_ip": "127.0.0.1", "port": 21, "data": "USER admin\r\n"}
+{"timestamp": "2025-05-09T14:16:03.929176", "remote_ip": "127.0.0.1", "port": 21, "data": "USER user\r\n"}
+{"timestamp": "2025-05-09T14:16:03.989793", "remote_ip": "127.0.0.1", "port": 21, "data": "USER admin\r\n"}
+{"timestamp": "2025-05-09T14:16:04.036041", "remote_ip": "127.0.0.1", "port": 21, "data": "PASS admin123\r\n"}
+{"timestamp": "2025-05-09T14:16:04.112901", "remote_ip": "127.0.0.1", "port": 21, "data": "USER user\r\n"}
+{"timestamp": "2025-05-09T14:16:04.146703", "remote_ip": "127.0.0.1", "port": 21, "data": "USER root\r\n"}
+{"timestamp": "2025-05-09T14:16:04.179592", "remote_ip": "127.0.0.1", "port": 21, "data": "USER admin\r\n"}
+{"timestamp": "2025-05-09T14:16:04.287249", "remote_ip": "127.0.0.1", "port": 21, "data": "USER root\r\nPASS admin123\r\n"}
+{"timestamp": "2025-05-09T14:16:04.429291", "remote_ip": "127.0.0.1", "port": 21, "data": "USER user\r\nPASS root\r\n"}
+{"timestamp": "2025-05-09T14:16:04.552442", "remote_ip": "127.0.0.1", "port": 21, "data": "USER root\r\n"}
+{"timestamp": "2025-05-09T14:16:04.610330", "remote_ip": "127.0.0.1", "port": 21, "data": "USER test\r\nPASS password123\r\n"}
+{"timestamp": "2025-05-09T14:16:04.644337", "remote_ip": "127.0.0.1", "port": 21, "data": "LIST\r\n"}
+{"timestamp": "2025-05-09T14:16:04.746198", "remote_ip": "127.0.0.1", "port": 21, "data": "USER test\r\n"}
+{"timestamp": "2025-05-09T14:16:04.779695", "remote_ip": "127.0.0.1", "port": 21, "data": "USER root\r\n"}
+{"timestamp": "2025-05-09T14:16:04.988431", "remote_ip": "127.0.0.1", "port": 21, "data": "USER user\r\n"}
+{"timestamp": "2025-05-09T14:16:05.026307", "remote_ip": "127.0.0.1", "port": 21, "data": "PASS admin123\r\n"}
+{"timestamp": "2025-05-09T14:16:05.042223", "remote_ip": "127.0.0.1", "port": 21, "data": "USER test\r\n"}
+{"timestamp": "2025-05-09T14:16:05.246575", "remote_ip": "127.0.0.1", "port": 21, "data": "USER test\r\nPASS root\r\n"}
+{"timestamp": "2025-05-09T14:16:05.271173", "remote_ip": "127.0.0.1", "port": 21, "data": "USER user\r\n"}
+{"timestamp": "2025-05-09T14:16:05.471291", "remote_ip": "127.0.0.1", "port": 21, "data": "USER user\r\n"}
+{"timestamp": "2025-05-09T14:16:05.477919", "remote_ip": "127.0.0.1", "port": 21, "data": "STOR malware.exe\r\n"}
+{"timestamp": "2025-05-09T14:16:05.601967", "remote_ip": "127.0.0.1", "port": 21, "data": "USER admin\r\n"}
+{"timestamp": "2025-05-09T14:16:05.753719", "remote_ip": "127.0.0.1", "port": 21, "data": "USER user\r\nPASS root\r\n"}
+{"timestamp": "2025-05-09T14:16:05.812424", "remote_ip": "127.0.0.1", "port": 21, "data": "USER admin\r\n"}
+{"timestamp": "2025-05-09T14:16:05.949092", "remote_ip": "127.0.0.1", "port": 21, "data": "USER test\r\nPASS password123\r\n"}
+{"timestamp": "2025-05-09T14:16:06.052433", "remote_ip": "127.0.0.1", "port": 21, "data": "USER admin\r\n"}
+{"timestamp": "2025-05-09T14:16:06.200753", "remote_ip": "127.0.0.1", "port": 21, "data": "LIST\r\n"}
+{"timestamp": "2025-05-09T14:16:06.320897", "remote_ip": "127.0.0.1", "port": 21, "data": "USER test\r\nPASS admin123\r\n"}
+{"timestamp": "2025-05-09T14:16:06.353481", "remote_ip": "127.0.0.1", "port": 21, "data": "USER admin\r\n"}
+{"timestamp": "2025-05-09T14:16:06.470252", "remote_ip": "127.0.0.1", "port": 21, "data": "USER test\r\nPASS 123456\r\n"}
+{"timestamp": "2025-05-09T14:16:06.614534", "remote_ip": "127.0.0.1", "port": 22, "data": "SSH-2.0-OpenSSH_7.9\r\n"}
+{"timestamp": "2025-05-09T14:16:06.673890", "remote_ip": "127.0.0.1", "port": 21, "data": "USER root\r\nPASS password123\r\n"}
+{"timestamp": "2025-05-09T14:16:06.748419", "remote_ip": "127.0.0.1", "port": 21, "data": "USER test\r\n"}
+{"timestamp": "2025-05-09T14:16:06.896518", "remote_ip": "127.0.0.1", "port": 21, "data": "STOR malware.exe\r\n"}
+{"timestamp": "2025-05-09T14:16:06.937826", "remote_ip": "127.0.0.1", "port": 21, "data": "USER root\r\nPASS admin123\r\n"}
+{"timestamp": "2025-05-09T14:16:07.219060", "remote_ip": "127.0.0.1", "port": 21, "data": "USER root\r\nPASS 123456\r\n"}
+{"timestamp": "2025-05-09T14:16:07.483981", "remote_ip": "127.0.0.1", "port": 21, "data": "USER root\r\n"}
+{"timestamp": "2025-05-09T14:16:07.499257", "remote_ip": "127.0.0.1", "port": 22, "data": "admin:password123\n"}
+{"timestamp": "2025-05-09T14:16:07.611967", "remote_ip": "127.0.0.1", "port": 22, "data": "SSH-2.0-OpenSSH_7.9\r\n"}
+{"timestamp": "2025-05-09T14:16:07.761250", "remote_ip": "127.0.0.1", "port": 21, "data": "USER user\r\n"}
+{"timestamp": "2025-05-09T14:16:07.832127", "remote_ip": "127.0.0.1", "port": 21, "data": "USER admin\r\n"}
+{"timestamp": "2025-05-09T14:16:08.037618", "remote_ip": "127.0.0.1", "port": 21, "data": "USER user\r\n"}
+{"timestamp": "2025-05-09T14:16:08.286300", "remote_ip": "127.0.0.1", "port": 21, "data": "USER user\r\n"}
+{"timestamp": "2025-05-09T14:16:08.297917", "remote_ip": "127.0.0.1", "port": 22, "data": "root:toor\n"}
+{"timestamp": "2025-05-09T14:16:08.557056", "remote_ip": "127.0.0.1", "port": 21, "data": "USER user\r\n"}
+{"timestamp": "2025-05-09T14:16:08.713212", "remote_ip": "127.0.0.1", "port": 21, "data": "USER test\r\n"}
+{"timestamp": "2025-05-09T14:16:08.840708", "remote_ip": "127.0.0.1", "port": 21, "data": "USER test\r\n"}
+{"timestamp": "2025-05-09T14:16:09.002146", "remote_ip": "127.0.0.1", "port": 21, "data": "PASS admin123\r\n"}
+{"timestamp": "2025-05-09T14:16:09.068739", "remote_ip": "127.0.0.1", "port": 22, "data": "admin:password123\n"}
+{"timestamp": "2025-05-09T14:16:09.129693", "remote_ip": "127.0.0.1", "port": 21, "data": "USER test\r\n"}
+{"timestamp": "2025-05-09T14:16:09.349626", "remote_ip": "127.0.0.1", "port": 21, "data": "USER test\r\nPASS root\r\n"}
+{"timestamp": "2025-05-09T14:16:10.458320", "remote_ip": "127.0.0.1", "port": 22, "data": "root:toor\n"}
+{"timestamp": "2025-05-09T14:16:10.577074", "remote_ip": "127.0.0.1", "port": 21, "data": "LIST\r\n"}
+{"timestamp": "2025-05-09T14:16:10.967767", "remote_ip": "127.0.0.1", "port": 21, "data": "USER admin\r\n"}
+{"timestamp": "2025-05-09T14:16:11.561345", "remote_ip": "127.0.0.1", "port": 21, "data": "STOR malware.exe\r\n"}
+{"timestamp": "2025-05-09T14:16:11.791260", "remote_ip": "127.0.0.1", "port": 21, "data": "PASS admin123\r\n"}
+{"timestamp": "2025-05-09T14:16:12.518261", "remote_ip": "127.0.0.1", "port": 21, "data": "LIST\r\n"}
+{"timestamp": "2025-05-09T14:16:13.153639", "remote_ip": "127.0.0.1", "port": 22, "data": "SSH-2.0-OpenSSH_7.9\r\n"}
+{"timestamp": "2025-05-09T14:16:13.798364", "remote_ip": "127.0.0.1", "port": 21, "data": "STOR malware.exe\r\n"}
+{"timestamp": "2025-05-09T14:16:14.097879", "remote_ip": "127.0.0.1", "port": 22, "data": "admin:password123\n"}
+{"timestamp": "2025-05-09T14:16:14.486990", "remote_ip": "127.0.0.1", "port": 80, "data": "GET / HTTP/1.1\r\nHost: localhost\r\n\r\n"}
+{"timestamp": "2025-05-09T14:16:15.483880", "remote_ip": "127.0.0.1", "port": 80, "data": "POST /admin HTTP/1.1\r\nHost: localhost\r\nContent-Length: 0\r\n\r\n"}
+{"timestamp": "2025-05-09T14:16:15.499080", "remote_ip": "127.0.0.1", "port": 22, "data": "SSH-2.0-OpenSSH_7.9\r\n"}
+{"timestamp": "2025-05-09T14:16:15.547751", "remote_ip": "127.0.0.1", "port": 22, "data": "root:toor\n"}
+{"timestamp": "2025-05-09T14:16:16.601535", "remote_ip": "127.0.0.1", "port": 22, "data": "admin:password123\n"}
+{"timestamp": "2025-05-09T14:16:16.602797", "remote_ip": "127.0.0.1", "port": 80, "data": "GET /wp-admin HTTP/1.1\r\nHost: localhost\r\n\r\n"}
+{"timestamp": "2025-05-09T14:16:17.800399", "remote_ip": "127.0.0.1", "port": 22, "data": "root:toor\n"}
+{"timestamp": "2025-05-09T14:16:20.248448", "remote_ip": "127.0.0.1", "port": 80, "data": "GET / HTTP/1.1\r\nHost: localhost\r\n\r\n"}
+{"timestamp": "2025-05-09T14:16:21.318199", "remote_ip": "127.0.0.1", "port": 80, "data": "POST /admin HTTP/1.1\r\nHost: localhost\r\nContent-Length: 0\r\n\r\n"}
+{"timestamp": "2025-05-09T14:16:22.806375", "remote_ip": "127.0.0.1", "port": 80, "data": "GET /wp-admin HTTP/1.1\r\nHost: localhost\r\n\r\n"}
+{"timestamp": "2025-05-09T14:16:23.054315", "remote_ip": "127.0.0.1", "port": 80, "data": "GET / HTTP/1.1\r\nHost: localhost\r\n\r\n"}
+{"timestamp": "2025-05-09T14:16:24.717656", "remote_ip": "127.0.0.1", "port": 80, "data": "POST /admin HTTP/1.1\r\nHost: localhost\r\nContent-Length: 0\r\n\r\n"}
+{"timestamp": "2025-05-09T14:16:25.968472", "remote_ip": "127.0.0.1", "port": 80, "data": "GET /wp-admin HTTP/1.1\r\nHost: localhost\r\n\r\n"}
+{"timestamp": "2025-05-09T14:16:26.250458", "remote_ip": "127.0.0.1", "port": 80, "data": "GET / HTTP/1.1\r\nHost: localhost\r\n\r\n"}
+{"timestamp": "2025-05-09T14:16:27.377505", "remote_ip": "127.0.0.1", "port": 80, "data": "POST /admin HTTP/1.1\r\nHost: localhost\r\nContent-Length: 0\r\n\r\n"}
+{"timestamp": "2025-05-09T14:16:28.272112", "remote_ip": "127.0.0.1", "port": 80, "data": "GET /wp-admin HTTP/1.1\r\nHost: localhost\r\n\r\n"}
+
